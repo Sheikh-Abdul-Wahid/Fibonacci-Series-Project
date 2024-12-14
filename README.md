@@ -14,7 +14,7 @@ This project calculates the Fibonacci sequence using both **iteration** and **re
 ---
 
 ## How to Run the Code
-1. Clone this repository or download the `fibonacci.py` file.  
+1. Clone this repository or download the `main.py` file.  
 2. Run the Python script using the command:  
    ```bash
-   python fibonacci.py
+   python main.py
